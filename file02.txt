@@ -1,0 +1,2 @@
+Dit is File file02.txt
+Nieuwe regel in file02.txt
