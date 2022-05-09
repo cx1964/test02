@@ -1,6 +1,2 @@
 Dit file04.txt
-<<<<<<< HEAD
 Dit is een wijziging voor hard reset
-=======
-Dit is een wijziging tbv hard rest
->>>>>>> 73a5cf12b95ec13a1bc7daabd09f22bdb4bf0d0d
