@@ -1,1 +1,2 @@
 Dit file04.txt
+Dit is een wijziging tbv hard rest
