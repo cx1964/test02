@@ -1,1 +1,2 @@
 Dit is File file01.txt
+Dit is een toevoeging
