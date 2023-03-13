@@ -1,2 +1,2 @@
 # ignore linux shell scripts
-*.sh
+#*.sh
