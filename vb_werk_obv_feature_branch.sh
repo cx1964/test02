@@ -29,3 +29,4 @@ git commit -m "sla de wijziginge op mbv de commit"
 
 # Stap6
 # Doe een pull request, zodat iemand anders een code review kan doen
+# De de pull request vanuit Visual studio
